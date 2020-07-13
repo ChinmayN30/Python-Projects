@@ -1,0 +1,5 @@
+print("Hello World")
+print('////////')
+name = input("Enter your name: ")
+color = input("Enter your fav colour: ")
+print(name + " likes " + color)
